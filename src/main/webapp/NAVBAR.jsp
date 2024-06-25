@@ -6,22 +6,22 @@
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="#"><span class="	fa fa-diamond"></span> Learning<span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <span class="	fa fa-navicon"></span> Projects
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Programming Language</a>
-                    <a class="dropdown-item" href="#">Project Implementation</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Data Structure</a>
-                </div>
-            </li>
+<%--            <li class="nav-item active">--%>
+<%--                <a class="nav-link" href="#"><span class="	fa fa-diamond"></span> Learning<span class="sr-only">(current)</span></a>--%>
+<%--            </li>--%>
+<%--            <li class="nav-item dropdown">--%>
+<%--                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">--%>
+<%--                    <span class="	fa fa-navicon"></span> Projects--%>
+<%--                </a>--%>
+<%--                <div class="dropdown-menu" aria-labelledby="navbarDropdown">--%>
+<%--                    <a class="dropdown-item" href="#">Programming Language</a>--%>
+<%--                    <a class="dropdown-item" href="#">Project Implementation</a>--%>
+<%--                    <div class="dropdown-divider"></div>--%>
+<%--                    <a class="dropdown-item" href="#">Data Structure</a>--%>
+<%--                </div>--%>
+<%--            </li>--%>
             <li class="nav-item">
-                <a class="nav-link" href="#"><span class="	fa fa-address-book-o"></span> Contact</a>
+                <a class="nav-link" href="https://www.linkedin.com/in/ayush-mer-737379226/"><span class="	fa fa-address-book-o"></span> Contact</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="Login_Page.jsp"><span class="	fa fa-user-circle"></span> LOGIN</a>
