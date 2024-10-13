@@ -10,7 +10,8 @@ public class ConnectionProvider {
                 Class.forName("com.mysql.cj.jdbc.Driver");
 
                 // Create a connection
-                con = DriverManager.getConnection("jdbc:mysql://localhost:3306/techblog","root","@Ayush123");
+//                con = DriverManager.getConnection("jdbc:mysql://localhost:3306/techblog","root","@Ayush123");
+                con = DriverManager.getConnection("jdbc:mysql://mysql.railway.internal:3306/railway","root","kGIqOSEadhFXFxNoiOZhzbxozGcXEKys");
 
             }
         }
